@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏎️ I’m currently working on an autonomous self-driving car!<br><br>🦾 I’m looking to collaborate on AI + IoT projects, smart wearable tech, and autonomous vehicles.<br><br>🪽 I’m looking for help with quantum computing implementations and efficient satellite data transmission.<br><br>🎀 I’m currently learning quantum computing, edge AI, and advanced NLP techniques.<br><br>💬 Ask me about PocketQube satellite missions, SUMO robotics, or building full-stack apps.<br><br>⚡ Fun fact: the satellite mission I worked on is set to launch this October!<br>
+🦾 I’m looking to collaborate on AI + IoT projects, smart wearable tech, and autonomous vehicles.<br><br>🪽 I’m looking for help with quantum computing implementations and efficient satellite data transmission.<br><br>🎀 I’m currently learning quantum computing, edge AI, and advanced NLP techniques.<br><br>💬 Ask me about PocketQube satellite missions, SUMO robotics, or building full-stack apps.<br><br>⚡ Fun fact: the satellite mission I worked on is set to launch this October!<br>
 
 
 ## 🌐 Socials:
